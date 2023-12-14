@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fpharmacy-foreground-with-counter-blurred-backdrop-medicine-shelves-emphasizing-recycled-plastic-bottle-usage_91128-3490.jpg&tbnid=ws0M8eu33uH6aM&vet=12ahUKEwi8tquh4YuDAxUbSWwGHcNBBt4QMygDegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fpharmacy&docid=dqwCnGSWFToEnM&w=626&h=351&q=medical%20store%20background%20images&ved=2ahUKEwi8tquh4YuDAxUbSWwGHcNBBt4QMygDegQIARB0");  */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
