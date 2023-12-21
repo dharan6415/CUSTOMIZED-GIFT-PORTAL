@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "AnishRa",
+      "email": "aanishram22@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "AnishRa",
+      "email": "aanishram22@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "AnishRa",
+      "email": "aanishram22@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "AnishRa",
+      "email": "aanishram22@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "asdndas",
+      "email": "nadfdkjbsf",
+      "id": 12
+    }
+  ],
+  "posts": [
+    {}
+  ]
+}
